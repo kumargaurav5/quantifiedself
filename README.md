@@ -57,7 +57,6 @@ Here are some related references
 
 [Awesome List - Curated by public](https://project-awesome.org/woop/awesome-quantified-self)
 
-[YouTube Live demonstration](https://youtu.be/w3b77f6owVg)
 
 ## Codebase hierarchy
 
