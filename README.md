@@ -55,9 +55,6 @@ Here are some related references
 
 [Quantified Self](https://en.wikipedia.org/wiki/Quantified_self)
 
-[Awesome List - Curated by public](https://project-awesome.org/woop/awesome-quantified-self)
-
-
 ## Codebase hierarchy
 
 ├───app.py (main app.py) file to be called to start server for web app
