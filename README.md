@@ -8,7 +8,7 @@ QuantifiedSelf App - Quantified Self app is a self-tracking app
     this. For e.g. – Smart Watches track your running and calories
     count and you make your progress accordingly.
 
-[view this project live](https://quantifiedself-app.kumargaurav10.repl.co/login?next=%2F)
+[view this project live](https://kgr5.pythonanywhere.com/)
 
 ## Frameworks used
 
